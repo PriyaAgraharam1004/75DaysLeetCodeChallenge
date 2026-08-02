@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -119,9 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0877-stone-game](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
