@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+| [3731-find-missing-elements](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3731-find-missing-elements](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [3731-find-missing-elements](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
