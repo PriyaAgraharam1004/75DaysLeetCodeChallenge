@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [3731-find-missing-elements](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
+## Matrix
+|  |
+| ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1380-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
